@@ -7,15 +7,13 @@
 
 - 💡 I’m passionate about web development, and I love learning new technologies.
 
--🎯 Currently, I’m exploring Blockchain technology.
-
--✨ Always ready to collaborate and share knowledge!
-
 - 👨‍💻 All of my projects are available at [Soon..](Soon..)
 
 - 📝 I regularly write articles on [Soon...](Soon...)
 
 - 📄 Know about my experiences [Soon..](Soon..)
+
+- ✨ Always ready to collaborate and share knowledge!
 
 - 💻 Tech Stack
 
