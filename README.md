@@ -1,39 +1,3 @@
-🚀 About Me
-
-👋 Hi, I’m Vedansh!
-
-🌱 I’m a recent B.Tech graduate in Computer Science and Engineering.
-
-💡 I’m passionate about web development, and I love learning new technologies.
-
-🎯 Currently, I’m exploring Blockchain technology.
-
-✨ Always ready to collaborate and share knowledge!
-
-💻 Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: .NET, MEAN stack (MongoDB, Express.js, Angular, Node.js)
-
-Database: Microsoft SQL Server, MongoDB, MySql
-
-📂 Projects
-
-[Project Name]: Briefly describe your project. What problem does it solve? What technologies did you use? Include a link to the project repository.
-
-[Another Project]: Repeat the same for other projects you’ve worked on.
-
-🌐 Connect with Me
-
-LinkedIn: Your LinkedIn Profile
-
-Twitter: @YourTwitterHandle
-
-Mail:
-
-Portfolio: Your Portfolio Website
-
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Vedansh-828)
 <h1 align="center">Hi 👋, I'm Vedansh</h1>
 <h3 align="center">I’m a recent B.Tech graduate in Computer Science and Engineering.</h3> 
@@ -41,15 +5,34 @@ Portfolio: Your Portfolio Website
 
 - 🌱 I’m currently learning **MVC, Identity FrameWork.**
 
+- 💡 I’m passionate about web development, and I love learning new technologies.
+
+-🎯 Currently, I’m exploring Blockchain technology.
+
+-✨ Always ready to collaborate and share knowledge!
+
 - 👨‍💻 All of my projects are available at [Soon..](Soon..)
 
 - 📝 I regularly write articles on [Soon...](Soon...)
 
-- 📫 How to reach me **vedanshofficial123@gmail.com**
-
 - 📄 Know about my experiences [Soon..](Soon..)
 
-<h3 align="left">Connect with me:</h3>
+- 💻 Tech Stack
+
+-Frontend: HTML, CSS, JavaScript
+
+-Backend: .NET, MEAN stack (MongoDB, Express.js, Angular, Node.js)
+
+-Database: Microsoft SQL Server, MongoDB, MySql
+
+<h3 align="left">🌐 Connect with me:</h3>
+LinkedIn: Your LinkedIn Profile
+
+Twitter: @YourTwitterHandle
+
+Mail:- 📫 **vedanshofficial123@gmail.com**
+
+Portfolio: Your Portfolio Website
 <p align="left">
 </p>
 
