@@ -15,7 +15,7 @@
 
 - ✨ Always ready to collaborate and share knowledge!
 
-- 💻 Tech Stack
+💻 Tech Stack
 
 -Frontend: HTML, CSS, JavaScript
 
