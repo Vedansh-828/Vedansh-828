@@ -1,4 +1,5 @@
-[![Header Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fGNvZGluZyUyQ3dlYl9kZXZlbG9wbWVudHxlbnwwfHx8fDE2NTM5NTk4Mzg&ixlib=rb-1.2.1&q=80&w=1440)]
+![Header Image](.jpg)
+
 
 <h1 align="center">Hello! 👋 I'm Vedansh</h1>
 <h3 align="center">B.Tech Graduate in Computer Science & Engineering | Web Development Enthusiast</h3>
