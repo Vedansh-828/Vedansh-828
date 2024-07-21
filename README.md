@@ -1,4 +1,4 @@
-<img src="https://github.com/Vedansh-828/Vedansh-828/blob/main/markdown-header.gif" width="800" height="300" alt="Header Image">
+<img src="https://github.com/Vedansh-828/Vedansh-828/blob/main/markdown-header.gif" width="1000" height="200" alt="Header Image">
 
 
 <h1 align="center">Hello! 👋 I'm Vedansh</h1>
