@@ -1,4 +1,4 @@
-![Header Image](.jpg)
+<img src="markdown-header.jpg" alt="Header Image">
 
 
 <h1 align="center">Hello! 👋 I'm Vedansh</h1>
