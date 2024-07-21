@@ -1,10 +1,10 @@
-![Header Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fGNvZGluZyUyQ3dlYl9kZXZlbG9wbWVudHxlbnwwfHx8fDE2NTM5NTk4Mzg&ixlib=rb-1.2.1&q=80&w=1440)
+![Header Image]([https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fGNvZGluZyUyQ3dlYl9kZXZlbG9wbWVudHxlbnwwfHx8fDE2NTM5NTk4Mzg&ixlib=rb-1.2.1&q=80&w=1440](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
 
 <h1 align="center">Hello! 👋 I'm Vedansh</h1>
 <h3 align="center">B.Tech Graduate in Computer Science & Engineering | Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding Animation" width="400">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding Animation" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 ---
